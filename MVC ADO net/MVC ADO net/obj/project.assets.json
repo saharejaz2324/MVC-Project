@@ -12945,11 +12945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sej\\source\\repos\\MVC ADO net\\MVC ADO net\\MVC ADO net.csproj",
+      "projectUniqueName": "C:\\Users\\sej\\Desktop\\New folder\\MVC ADO net\\MVC ADO net\\MVC ADO net.csproj",
       "projectName": "MVC ADO net",
-      "projectPath": "C:\\Users\\sej\\source\\repos\\MVC ADO net\\MVC ADO net\\MVC ADO net.csproj",
+      "projectPath": "C:\\Users\\sej\\Desktop\\New folder\\MVC ADO net\\MVC ADO net\\MVC ADO net.csproj",
       "packagesPath": "C:\\Users\\sej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sej\\source\\repos\\MVC ADO net\\MVC ADO net\\obj\\",
+      "outputPath": "C:\\Users\\sej\\Desktop\\New folder\\MVC ADO net\\MVC ADO net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
